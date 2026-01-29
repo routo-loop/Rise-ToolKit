@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=40&pause=1000&color=2832c2be%C2%A2er=true&vCenter=true&random=false&width=425&lines=Rise+ToolKit" alt="Rise ToolKit">
     </div>
 
-  <a href="https://discord.gg/d5nDRESjft"><img src="https://invidget.switchblade.xyz/mHU4bESA4p" alt="Discord Invite"/> </a>
+  <a href="https://discord.gg/d5nDRESjft"><img src="https://invidget.switchblade.xyz/d5nDRESjft" alt="Discord Invite"/> </a>
   <br/>
 
 </div>
